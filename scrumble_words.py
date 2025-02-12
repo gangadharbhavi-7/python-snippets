@@ -5,7 +5,7 @@ def scramble_word(word):
         middle = list(word[1:-1])
         random.shuffle(middle)
         return word[0] + ''.join(middle) + word[-1]
-    return word
+        return word
 
 word = input("Enter a word: ")
 print("Scrambled word:", scramble_word(word))
