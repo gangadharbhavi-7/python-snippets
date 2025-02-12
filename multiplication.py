@@ -1,3 +1,7 @@
+''' 
+python program for multiplication 
+'''
+
 import pyinputplus as pyip
 import random,time
 numberofquestions=10
