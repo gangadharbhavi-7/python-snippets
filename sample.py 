@@ -1,7 +1,7 @@
 def greet(x):
     print("Hello",x)
     print("How can I help you?")
-def ask(que
+def ask(question
 name=input("Enter your name:")
 greet(name)
 query=input("enter your query:
