@@ -1,3 +1,5 @@
-<h1>Python Snippets</h1>
-Simple python scripts
+# Python Snippets
 
+`Simple python scripts`
+
+`print("Hello, Markdown!")`
