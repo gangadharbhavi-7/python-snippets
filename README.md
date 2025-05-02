@@ -1,4 +1,4 @@
-###Python Snippets
-<code>
-simple nippets with simple functions
-</code>
+<h1>Python Snippets</h1>
+
+  Simple python scripts
+
